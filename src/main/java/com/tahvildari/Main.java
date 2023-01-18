@@ -1,4 +1,4 @@
-package org.example;
+package com.tahvildari;
 
 /**
  * Created by Abdolrahim Tahvildari on ${DATE}
